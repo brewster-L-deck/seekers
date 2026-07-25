@@ -13,6 +13,6 @@ currently versions being supported with security updates.
 
 ## Reporting a Vulnerability
 
-How to report a vulnerability: Send EMail describing the issue to: AFP@L-Deck.com
+How to report a vulnerability: Send EMail describing the issue to: brewster@L-deck.com
 
 

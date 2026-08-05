@@ -1,4 +1,4 @@
-/*   AT.css  C.12.23.2024   R.07.18.2026 
+/*   AT.css  C.12.23.2024   R.08.05.2026 
 
   display: inline-block;
   font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
@@ -65,6 +65,20 @@
 		width: 80%;
 		margin: auto;		
 		}
+
+.image-sidebyside {
+    display: flex; /* Enables flexbox layout */
+    flex-direction: column; /* Stacks the children vertically */
+    /* Optional: Center the images horizontally within the container */
+    align-items: center; 
+    /* Optional: Add some spacing between the images */
+    gap: 15px; 
+}
+
+.image-sidebyside img {
+  width: 48%; /* Ensures both images fit side by side with a small gap */
+  height: auto; /* Maintains the aspect ratio */
+}
 
 .image-container {
     display: flex; /* Enables flexbox layout */

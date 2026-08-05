@@ -66,20 +66,13 @@
 		margin: auto;		
 		}
 
-.image-sidebyside {
-    display: flex; /* Enables flexbox layout */
-	justify-content: space-between; /* Adds space between the images */
-    /* flex-direction: column; /* Stacks the children vertically */
-    /* Optional: Center the images horizontally within the container 
-    align-items: center; 
-    /* Optional: Add some spacing between the images */
-    gap: 10px; 
+.row {
+  display: flex;
 }
 
-.image-sidebyside img {
-  /* width: 45%; /* Ensures both images fit side by side with a small gap */
-  max-width: 40%; /* Ensures images are responsive */
-  height: auto; /* Maintains the aspect ratio */
+.column {
+  flex: 50.0%;
+  padding: 5px;
 }
 
 .image-container {

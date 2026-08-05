@@ -77,7 +77,8 @@
 }
 
 .image-sidebyside img {
-  width: 45%; /* Ensures both images fit side by side with a small gap */
+  /* width: 45%; /* Ensures both images fit side by side with a small gap */
+  max-width: 70%; /* Ensures images are responsive */
   height: auto; /* Maintains the aspect ratio */
 }
 

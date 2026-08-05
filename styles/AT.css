@@ -72,13 +72,13 @@
     /* flex-direction: column; /* Stacks the children vertically */
     /* Optional: Center the images horizontally within the container 
     align-items: center; 
-    /* Optional: Add some spacing between the images
-    gap: 15px; */
+    /* Optional: Add some spacing between the images */
+    gap: 10px; 
 }
 
 .image-sidebyside img {
   /* width: 45%; /* Ensures both images fit side by side with a small gap */
-  max-width: 70%; /* Ensures images are responsive */
+  max-width: 40%; /* Ensures images are responsive */
   height: auto; /* Maintains the aspect ratio */
 }
 

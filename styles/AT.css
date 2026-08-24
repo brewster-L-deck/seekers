@@ -1,4 +1,4 @@
-/*   AT.css  C.12.23.2024   R.08.05.2026 
+/*   AT.css  C.12.23.2024   R.08.24.2026 
 
   display: inline-block;
   font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
@@ -103,6 +103,34 @@
   display: flex;         /* Aligns items side-by-side */
   align-items: center;   /* Centers text vertically relative to the image */
   gap: 10px;             /* Adds spacing between the image and text */
+}
+
+/* Enables smooth scrolling behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Styles the floating button */
+.go-top-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.go-top-btn:hover {
+  background-color: #0056b3;
 }
 
 .foot {

@@ -1,4 +1,4 @@
-/*   AT.css  C.12.23.2024   R.08.24.2026 
+/*   AT.css  C.12.23.2024   R.10.12.2026 
 
   display: inline-block;
   font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
@@ -55,6 +55,16 @@
 	img {  /* no '.' or '#'   */
 		display: block;
 		margin: auto;
+		}
+
+.RF-description{
+		font-family: monospace;
+		font-size: 1.65em;
+		text-align: justify;		
+		color: #99ffeb;
+		width: 70%;
+	/*		text-align: center;  not used */
+		margin: auto;			
 		}
 
 	.at-description {

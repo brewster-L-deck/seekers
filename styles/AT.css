@@ -61,7 +61,7 @@
 		font-family: monospace;
 		font-size: 1.65em;
 		text-align: justify;		
-		color: #99ffeb;
+		color: black;     /* color was light blue  #99ffeb  */
 		width: 70%;
 	/*		text-align: center;  not used */
 		margin: auto;			

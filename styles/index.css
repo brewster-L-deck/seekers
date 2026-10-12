@@ -1,4 +1,4 @@
-/* index.css  L-Deck  C12.14.2024  R8.24.2026   */
+/* index.css  L-Deck  C12.14.2024  R10.12.2026   */
 
 		nav ul{
 			list-style-type: none;
@@ -24,20 +24,20 @@
 	
 	.LD-h1{
 		 /* top line of text */
-			color: transparent;
+			/* color: transparent; */
 			text-align: center;
 			width: 60%;
 			margin: auto;
-			color: #BF40BF;
+			color: #00ef8f /* light green, was purple #BF40BF;  */
 			font-size: 1.20em;	
 			font-family: Sans-serif;
 			}
 
 	.Line2-Head{  /* light purple #BF40BF; dark yellow #8B8000 or color #BA8E23; dark red  #D10000; #009fff was blue  */
 		
-		background-image: linear-gradient(to right, white, #BF40BF, violet, #009fff, green, #8B8000, orange, red, #D10000, white);
-		 -webkit-background-clip: text; /* required for text to appear */
-		 background-clip: text;
+	/*	background-image: linear-gradient(to right, white, #BF40BF, violet, #009fff, green, #8B8000, orange, red, #D10000, white);
+		 -webkit-background-clip: text; /* required for text to appear 
+		 background-clip: text;  */
 		
 		 /* Make the text transparent to reveal the background gradient 
 			min-width: 100px; /* Important to prevent collapse without content 
@@ -47,7 +47,7 @@
 			font-family: monospace;		
 			font-size: 1.8em;  
 			width: 80%;
-			color: transparent;
+			color: #00ef8f;   /* light green, was transparent;  */
 			text-align: center;   /* was center   */
 			margin: auto;
 			}

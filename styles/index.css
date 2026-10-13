@@ -24,7 +24,7 @@
 	
 	.LD-h1{
 		 /* top line of text */
-			/* color: transparent; */
+			color: transparent;
 			text-align: center;
 			width: 60%;
 			margin: auto;

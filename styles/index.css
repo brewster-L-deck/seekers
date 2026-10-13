@@ -24,11 +24,11 @@
 	
 	.LD-h1{
 		 /* top line of text */
-			color: transparent;
+			/*  color: transparent;   */
 			text-align: center;
 			width: 60%;
 			margin: auto;
-			color: #00ef8f /* light green, was purple #BF40BF;  */
+			color: #00ef8f;     /* light green, was purple #BF40BF;  */
 			font-size: 1.20em;	
 			font-family: Sans-serif;
 			}
@@ -36,7 +36,7 @@
 	.Line2-Head{  /* light purple #BF40BF; dark yellow #8B8000 or color #BA8E23; dark red  #D10000; #009fff was blue  */
 		
 	/*	background-image: linear-gradient(to right, white, #BF40BF, violet, #009fff, green, #8B8000, orange, red, #D10000, white);
-		 -webkit-background-clip: text; /* required for text to appear 
+		 -webkit-background-clip: text; /* required for text to appear   Used for multicolor.
 		 background-clip: text;  */
 		
 		 /* Make the text transparent to reveal the background gradient 

@@ -1,4 +1,4 @@
-/* RF.css   Radio Waves  C12.14.2025  R8.24.2026   */
+/* RF.css   Radio Waves  C12.14.2025  R10.12.2026   */
 
 		nav ul{
 			list-style-type: none;
@@ -25,7 +25,7 @@
 			text-align: center;
 			width: 60%;
 			margin: auto;
-			color: #BF40BF;
+			color: #99ffeb;   /* light blue, color was purple #BF40BF  */
 			font-size: 1.20em;	
 			font-family: Sans-serif;
 			}
@@ -35,7 +35,7 @@
 			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;	
 			font-size: 1em;
 			width: 100%;
-			color: #4da6ff;
+			color: #99ffeb;   /* light blue, color was dark blue  #4da6ff;   */
 			text-align: center;
 			margin: auto;
 			}
@@ -80,7 +80,7 @@
 		font-family: monospace;
 		font-size: 1.65em;
 		text-align: justify;		
-		color: #99ffeb;
+		color: #99ffeb;   /* light blue  */
 		width: 70%;
 	/*		text-align: center;  not used */
 		margin: auto;			

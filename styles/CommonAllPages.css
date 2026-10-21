@@ -10,16 +10,16 @@
 			margin-bottom: 25px;
 		}
 	
-		nav a{
-			color: #ffbc52;  /*  is gold #ffbc52 */
+/*		nav a{
+			color: #ffbc52;  /*  is gold #ffbc52 
 			font-size: 1.80em;	
 			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 			text-decoration: none;			
 		}
 
-		.currentpage{  /* bar under the nav names */
-			border-bottom:#ffbc52 solid 3px;  /*  gold, color was blue  */
-		}
+		.currentpage{  /* bar under the nav names 
+			border-bottom:#ffbc52 solid 3px;  /*  gold, color was blue  
+		}  */
 
 .wrapper {
   flex: 1 0 auto; /* This makes the wrapper grow to fill available space, pushing the footer down */

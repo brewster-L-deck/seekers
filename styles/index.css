@@ -1,5 +1,15 @@
 /* index.css  L-Deck  C12.14.2024  R10.21.2026   */
 
+   	nav ul{
+			list-style-type: none;
+			text-align: center;
+		}
+		nav li{
+			display:inline;
+			margin-top: 25px;
+			margin-bottom: 25px;
+		}
+	
 		nav a{
 			color: #ffbc52;  /*  is gold #ffbc52 */
 			font-size: 1.80em;	

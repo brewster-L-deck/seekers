@@ -1,0 +1,28 @@
+/*   CommonAllPages.css  C.10.21.2026   R.10.21.2026  */
+
+   	nav ul{
+			list-style-type: none;
+			text-align: center;
+		}
+		nav li{
+			display:inline;
+			margin-top: 25px;
+			margin-bottom: 25px;
+		}
+	
+		nav a{
+			color: blue;  /*  was gold #ffbc52, now blue  */
+			font-size: 1.80em;	
+			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+			text-decoration: none;			
+		}
+
+		.currentpage{  /* bar under the nav names */
+			border-bottom:#ffbc52 solid 3px;  /*  gold, color was blue  */
+		}
+
+
+/*  display: inline-block;   NOTES ***
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-decoration: none;   */

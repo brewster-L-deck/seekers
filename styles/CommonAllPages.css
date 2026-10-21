@@ -29,6 +29,17 @@
 	white-space: nowrap;
 	}
 
+.foot {
+	flex-shrink: 0; /* Prevents the footer from shrinking */
+	/* Add styling for your footer (e.g., background-color, padding) */
+	background-color: Black;
+	padding: 10px;
+	text-align: center;  
+	font-style: italic;
+	font-family: Sans-serif;
+	color: #ffd125;
+	font-size: 1.0em;
+	}
 
 
 /*  display: inline-block;   NOTES ***

@@ -160,14 +160,14 @@ table, th, td {
 		margin: auto;			
 		}
 
-/*
+
 .wrapper {
-  flex: 1 0 auto; /* This makes the wrapper grow to fill available space, pushing the footer down 
+  flex: 1 0 auto; /* This makes the wrapper grow to fill available space, pushing the footer down */
 }
 	
 .no-wrap{
 	white-space: nowrap;
-	}   */
+	}  
 
 	.main{
 		font-family: monospace;
@@ -201,10 +201,10 @@ table, th, td {
   background-color: #0056b3;
 }
 
-/*
+
 .foot {
-	flex-shrink: 0; /* Prevents the footer from shrinking 
-	/* Add styling for your footer (e.g., background-color, padding) 
+	flex-shrink: 0; /* Prevents the footer from shrinking */
+	/* Add styling for your footer (e.g., background-color, padding) */
 	background-color: Black;
 	padding: 10px;
 	text-align: center;  
@@ -212,5 +212,5 @@ table, th, td {
 	font-family: Sans-serif;
 	color: #ffd125;
 	font-size: 1.0em;
-	}  */
+	} 
 

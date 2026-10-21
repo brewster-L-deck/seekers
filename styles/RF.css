@@ -1,6 +1,6 @@
-/* RF.css   Radio Waves  C12.14.2025  R10.12.2026   */
+/* RF.css   Radio Waves  C12.14.2025  R10.21.2026   */
 
-		nav ul{
+	/*	nav ul{
 			list-style-type: none;
 			text-align: center;
 		}
@@ -11,16 +11,18 @@
 		}
 	
 		nav a{
-			color: #ffbc52;   /* gold, color was #00ef8f;  */
+			color: #ffbc52;   /* gold, color was #00ef8f; 
 			font-size: 1.80em;	
 			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 			text-decoration: none;			
 		}
 
-		.currentpage{  /* under the nav names */
+		.currentpage{  /* under the nav names
 			border-bottom:#00ef8f solid 2px;
 		}
-	
+
+*/
+
 	.RF-h1{
 			text-align: center;
 			width: 60%;
@@ -159,14 +161,14 @@ table, th, td {
 		margin: auto;			
 		}
 
-
+/*
 .wrapper {
-  flex: 1 0 auto; /* This makes the wrapper grow to fill available space, pushing the footer down */
+  flex: 1 0 auto; /* This makes the wrapper grow to fill available space, pushing the footer down 
 }
 	
 .no-wrap{
 	white-space: nowrap;
-	}
+	}   */
 
 	.main{
 		font-family: monospace;
@@ -200,10 +202,10 @@ table, th, td {
   background-color: #0056b3;
 }
 
-
+/*
 .foot {
-	flex-shrink: 0; /* Prevents the footer from shrinking */
-	/* Add styling for your footer (e.g., background-color, padding) */
+	flex-shrink: 0; /* Prevents the footer from shrinking 
+	/* Add styling for your footer (e.g., background-color, padding) 
 	background-color: Black;
 	padding: 10px;
 	text-align: center;  
@@ -211,5 +213,5 @@ table, th, td {
 	font-family: Sans-serif;
 	color: #ffd125;
 	font-size: 1.0em;
-	}
+	}  */
 

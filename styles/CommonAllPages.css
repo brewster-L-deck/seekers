@@ -21,6 +21,15 @@
 			border-bottom:#ffbc52 solid 3px;  /*  gold, color was blue  */
 		}
 
+.wrapper {
+  flex: 1 0 auto; /* This makes the wrapper grow to fill available space, pushing the footer down */
+}
+	
+.no-wrap{
+	white-space: nowrap;
+	}
+
+
 
 /*  display: inline-block;   NOTES ***
   font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;

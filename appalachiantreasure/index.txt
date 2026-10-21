@@ -1,4 +1,4 @@
-<!--   page is off <!DOCTYPE html>
+<!--   page is off    Set as TXT doc  <!DOCTYPE html>
 <html lang="en-US">		<!--  (alias AFPTreasure.html) index.html for brewster@L-deck.com C.07.01.2026   R.10.21.2026 -->
 						
 <head>

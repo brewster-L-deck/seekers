@@ -1,6 +1,6 @@
 /* RF.css   Radio Waves  C12.14.2025  R10.21.2026   */
 
-	/*	nav ul{
+		nav ul{
 			list-style-type: none;
 			text-align: center;
 		}
@@ -9,7 +9,7 @@
 			margin-top: 25px;
 			margin-bottom: 25px;
 		}
-	*/
+
 		nav a{
 			color: #ffbc52;   /* gold, color was #00ef8f; */
 			font-size: 1.80em;	

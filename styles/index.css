@@ -1,6 +1,6 @@
-/* index.css  L-Deck  C12.14.2024  R10.12.2026   */
+/* index.css  L-Deck  C12.14.2024  R10.21.2026   */
 
-		nav ul{
+/*		nav ul{
 			list-style-type: none;
 			text-align: center;
 		}
@@ -11,16 +11,16 @@
 		}
 	
 		nav a{
-			color: #ffbc52;   /*color was  #00ef8f;   */
+			color: #ffbc52;   /*color was  #00ef8f;   
 			font-size: 1.8em;	
 			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 			text-decoration: none;			
 		}	
 	
-		.currentpage{   /* underline the current navigation name  */
+		.currentpage{   /* underline the current navigation name 
 			border-bottom:#00ef8f solid 2px;
 		}
-
+*/
 	
 	.LD-h1{
 		 /* top line of text */
@@ -156,13 +156,14 @@ html, body {
   flex-direction: column; /* Stack children vertically */
 }
 
+/*
 .wrapper {
-  flex: 1 0 auto; /* This makes the wrapper grow to fill available space, pushing the footer down */
+  flex: 1 0 auto; /* This makes the wrapper grow to fill available space, pushing the footer down 
 }
 	
 	.no-wrap{
 		white-space: nowrap;
-	}
+	}   */
 
 /* Styles the floating button */
 .go-top-btn {
@@ -187,9 +188,10 @@ html, body {
   background-color: #0056b3;
 }
 
+/*
 .foot {
-  flex-shrink: 0; /* Prevents the footer from shrinking */
-  /* Add styling for your footer (e.g., background-color, padding) */
+  flex-shrink: 0; /* Prevents the footer from shrinking 
+  /* Add styling for your footer (e.g., background-color, padding) 
   background-color: Black;
   padding: 8px;
   text-align: center;  
@@ -197,7 +199,7 @@ html, body {
 		font-family: Sans-serif;
 		color: #ffd125;
 		font-size: 1.0em;
-}
+}   */
 
 
 

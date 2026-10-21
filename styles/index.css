@@ -179,4 +179,27 @@ html, body {
   background-color: #0056b3;
 }
 
+.wrapper {
+  flex: 1 0 auto; /* This makes the wrapper grow to fill available space, pushing the footer down */
+}
+	
+.no-wrap{
+	white-space: nowrap;
+	}
 
+.foot {
+	flex-shrink: 0; /* Prevents the footer from shrinking */
+	/* Add styling for your footer (e.g., background-color, padding) */
+	background-color: Black;
+	padding: 10px;
+	text-align: center;  
+	font-style: italic;
+	font-family: Sans-serif;
+	color: #ffd125;
+	font-size: 1.0em;
+	}
+
+
+
+
+			

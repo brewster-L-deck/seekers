@@ -9,19 +9,18 @@
 			margin-top: 25px;
 			margin-bottom: 25px;
 		}
-	
+	*/
 		nav a{
-			color: #ffbc52;   /* gold, color was #00ef8f; 
+			color: #ffbc52;   /* gold, color was #00ef8f; */
 			font-size: 1.80em;	
 			font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 			text-decoration: none;			
 		}
 
-		.currentpage{  /* under the nav names
+		.currentpage{  /* under the nav names  */
 			border-bottom:#00ef8f solid 2px;
 		}
 
-*/
 
 	.RF-h1{
 			text-align: center;
